@@ -3,7 +3,7 @@
 
 int main(void) {
   
- for (int i = 30; i > 0; i--) {
+ for (int i = 20; i > 0; i--) {
    printf("i의 값 : %d\n", i);
  }
 
